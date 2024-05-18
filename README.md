@@ -73,6 +73,8 @@ Usage instructions: Send a request to the API with the resume file (PDF or DOCX)
 }
 
 //Deployment commands are
+install go
+install postman
 //install the dependencies
 go mod init
 go mod tidy
